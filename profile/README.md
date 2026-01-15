@@ -1,4 +1,4 @@
-# GulcePacks
+# CommandLogicStudio
 
 Minecraft için geliştirilen **datapack’ler**, **sunucu içi yönetim araçları** ve  
 **deneysel framework projeleri**nin toplandığı organizasyon.
